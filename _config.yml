@@ -5,12 +5,12 @@ image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Photography by Michael Xu"
+title: "Michael Xu Photography"
 subtitle: "Creating is my passion!"
 author: "Michael Xu"
 bio: "I am a filmmaker based in Los Angeles. Currently pursuing my film major at California State University, Long Beach. In addition, I also enjoy making music, esplecially playing the guitar"
 publicise: "<a href=\"https://github.com/ramswaroop/photography\">fork me on github</a> ;)"
-web_design: "AJ"
+web_design: "MX"
 social_urls:
   facebook: "https://www.facebook.com/ramswaroop"
   twitter: "https://www.twitter.com/ramswarooppatra"
